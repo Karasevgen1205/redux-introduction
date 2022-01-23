@@ -1,5 +1,4 @@
 import React from "react";
-// import { connect } from "react-redux";
 import { inc, dec, rnd } from "../action";
 import { useSelector, useDispatch } from "react-redux";
 
